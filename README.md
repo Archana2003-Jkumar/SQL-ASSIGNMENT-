@@ -91,8 +91,11 @@ fruits
 FULL OUTER JOIN baskets ON baskets.basket_id = fruits.basket_id;
 ```
 ## Output:
+### Case:
 ![image](https://github.com/Archana2003-Jkumar/SQL-ASSIGNMENT-/assets/93427594/791ea1b9-8730-4a3b-8afe-7618ff03631c)
+### Cross join:
 ![image](https://github.com/Archana2003-Jkumar/SQL-ASSIGNMENT-/assets/93427594/a9c355d6-23b4-4738-96b1-b5d72f88bff2)
+### Full outer join:
 ![image](https://github.com/Archana2003-Jkumar/SQL-ASSIGNMENT-/assets/93427594/648b7d80-b55e-472d-9db9-8977b8d2c6f6)
 ## Result:
 Hence the program has been successfully completed.
